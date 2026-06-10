@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋
 
-<!--
-**sarthak-mlops/sarthak-mlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science & Engineering student specializing in Data Science at **SVPCET**. I focus on **MLOps and data infrastructure**—essentially bridging the gap between training a model in a local notebook and deploying it into stable, high-stakes production pipelines (especially within FinTech and quantitative systems).
 
-Here are some ideas to get you started:
+Right now, I'm diving deeper into pipeline automation, risk systems, and finding ways to make intelligent workflows more reliable and scalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Core Stack & Tools
+
+- **Languages:** Python, SQL, C
+- **Data & Intelligence:** Machine Learning, Computer Vision (OpenCV), Scikit-Learn, Pandas
+- **Infrastructure & Workflow:** Git, Data Pipelines, Shell Scripting
+
+---
+
+### 🚀 What I'm Up To
+- **Engineering Logic:** Building clean full-stack data apps and production-ready machine learning workflows.
+- **Automation & Vision:** Writing computer vision simulation logic and automating pipeline tasks.
+- **Team Projects:** Working alongside my team to build end-to-end B2B platform architectures for real-world resource efficiency.
+
+---
+
+### 📬 Let's Connect
+
+If you want to talk systems engineering, data science, or MLOps pipelines, let's connect!
+
+🔗 **[LinkedIn Profile](https://www.linkedin.com/in/sarthak-pande-15805739b)**
